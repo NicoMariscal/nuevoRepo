@@ -1,4 +1,4 @@
-Algoritmo tablaMultiplicar_2
+Algoritmo tablaMultiplicar_1
 	i es Entero
 	seguir Es Caracter
 	
